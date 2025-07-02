@@ -6,7 +6,7 @@ This is a basic responsive website built using **HTML**, **CSS**, and **JavaScri
 
 👉 [Click here to view the live website](https://your-github-username.github.io/your-repo-name)
 
-> *(Replace the above URL with your actual GitHub Pages link)*
+
 
 ## 📁 Project Features
 
@@ -23,5 +23,5 @@ This is a basic responsive website built using **HTML**, **CSS**, and **JavaScri
 - **CSS3**
 - **JavaScript (Vanilla)**
 
-## 📂 Folder Structure
+
 
