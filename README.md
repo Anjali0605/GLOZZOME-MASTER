@@ -4,7 +4,7 @@ This is a basic responsive website built using **HTML**, **CSS**, and **JavaScri
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live website](https://your-github-username.github.io/your-repo-name)
+👉 [Click here to view the live website](https://chimerical-faun-323696.netlify.app/)
 
 
 
